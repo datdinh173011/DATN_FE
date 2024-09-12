@@ -46,6 +46,12 @@ npm run build
 npm run lint
 ```
 
+## Run Docker for developer
+
+```
+docker-compose up --build
+```
+
 ## Contribution guide
 
 - Fork the repository
